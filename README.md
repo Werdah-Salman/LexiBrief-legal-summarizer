@@ -23,3 +23,24 @@ Made with 💙 by [Werdah Salman](https://github.com/Werdah-Salman) – aspiring
 
 ## 📬 Want to Collaborate?
 Open to research, collabs, and mentorships. DM or reach out through GitHub!
+## ✨ Features
+
+- Summarizes complex legal documents into simple summaries
+- Uses Hugging Face’s `distilbart-cnn-12-6` transformer model
+- Runs directly in Google Colab — no setup required
+- Helpful for students, lawyers, and researchers
+
+## 💡 Example
+
+**Input:**
+> This Agreement shall commence on the Effective Date and remain in effect for one year unless terminated earlier with thirty (30) days’ written notice by either party.
+
+**Output:**
+> The agreement lasts for one year unless ended early with 30 days’ notice.
+> Added Features and Example section
+
+
+
+
+
+
