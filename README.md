@@ -38,6 +38,25 @@ Open to research, collabs, and mentorships. DM or reach out through GitHub!
 **Output:**
 > The agreement lasts for one year unless ended early with 30 days’ notice.
 > Added Features and Example section
+> ## 🚀 How to Use
+
+1. Click the link below to open the Colab notebook:
+   👉 [Open in Google Colab](https://colab.research.google.com/drive/1ZGo9XapBRjAzQfWKG-PKd34PcXlagbxz?usp=sharing)
+
+2. Click “Runtime” > “Run all”
+
+3. Enter your legal text in the provided box and click “Summarize”
+
+4. View the summary in plain language
+
+**Note:** No installations needed — it runs completely in the browser.
+
+## 📌 Future Improvements
+
+- Add support for non-English legal texts
+- Let users upload full documents (PDF support)
+- Improve summarization accuracy using fine-tuned models
+
 
 
 
